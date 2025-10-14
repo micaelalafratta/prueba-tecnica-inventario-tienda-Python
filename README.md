@@ -11,7 +11,18 @@ Encontrarás el archivo "Evaluación-final-micaelalafratta.ipynb".
 En él, está el ejercicio final completo.
 
 ## Estructura del ejercicio final:
+
+El ejercicio consiste en crear una tienda online en la que se pueda:
+- Agregar productos
+- Ver el inventario
+- Buscar productos
+- Actualizar stock
+- Eliminar productos
+- Calcular el valor del inventario
+
 El archivo "Evaluación-final-micaelalafratta.ipynb" se compone de varias partes:
+
+
 
 Primero encontrarás la CLASE TiendaOnline, así como los métodos correspondientes, por orden. Después, dividido en apartados, encontrarás el resto del código que llama a esos métodos para realizar las tareas que pide el ejercicio. 
 
@@ -86,6 +97,15 @@ You will find the file ‘Evaluación-final-micaelalafratta.ipynb’.
 This contains the complete final exercise.
 
 ## Exercise structure:
+
+The exercise consists of creating an online shop where you can:
+- Add products
+- View inventory
+- Search for products
+- Update stock
+- Remove products
+- Calculate inventory value
+
 The file ‘Final-assessment-micaelalafratta.ipynb’ consists of several parts:
 
 First, you will find the 'TiendaOnline' CLASS, as well as the corresponding methods, in order. 
