@@ -22,7 +22,7 @@ El código dispone de títulos, comentarios y prints de control para ir entendie
 ## Ejemplo de qué encontrarás dentro:
 
 ### Por ejemplo, al principio encontrarás la CLASE y el primer método: 
-
+```python
 class TiendaOnline:
     def __init__(self):
 
@@ -55,4 +55,4 @@ class TiendaOnline:
 
 tienda = TiendaOnline()     
 #Crear una tienda que llame a la CLASE TiendaOnline()
-
+```
