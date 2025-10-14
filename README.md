@@ -7,11 +7,8 @@
 Aquí encontrarás los archivos de la evaluación de Micaela Lafratta del Módulo 1: Descubre el poder de Pyhton. 
 
 ## Archivos:
-Por un lado, encontrarás el archivo "Evaluación-final-micaelalafratta.ipynb".
+Encontrarás el archivo "Evaluación-final-micaelalafratta.ipynb".
 En él, está el ejercicio final completo.
-
-Por otro lado, encontrarás el archivo "Bonus-micaelalafratta.ipynb".
-En él, está el bonus del ejercicio final.
 
 ## Estructura del ejercicio final:
 El archivo "Evaluación-final-micaelalafratta.ipynb" se compone de varias partes:
@@ -85,11 +82,8 @@ Hello, Adalaber! Please read carefully what you will find in this repository.
 Here you will find the files for Micaela Lafratta's assessment of Module 1: Discover the power of Python. 
 
 ## Files:
-On the one hand, you will find the file‘Evaluación-final-micaelalafratta.ipynb’.
+You will find the file ‘Evaluación-final-micaelalafratta.ipynb’.
 This contains the complete final exercise.
-
-On the other hand, you will find the file ‘Bonus-micaelalafratta.ipynb’.
-This contains the bonus exercise.
 
 ## Exercise structure:
 The file ‘Final-assessment-micaelalafratta.ipynb’ consists of several parts:
