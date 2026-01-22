@@ -1,7 +1,7 @@
 # Léeme:
 ## /English below/ 👇🏽
 
-¡Hola, Adalaber! Lee atentamente qué encontrarás en este repositorio.
+¡Hola! Lee atentamente qué encontrarás en este repositorio.
 
 ## Contenido del respositorio: 
 Aquí encontrarás los archivos de la evaluación de Micaela Lafratta del Módulo 1: Descubre el poder de Pyhton. 
@@ -87,7 +87,7 @@ tienda.agregar_producto("Calcetines", 2.99, 100)
 ```
 # /English/ 👇🏽
 
-Hello, Adalaber! Please read carefully what you will find in this repository.
+Hello! Please read carefully what you will find in this repository.
 
 ## Repository contents: 
 Here you will find the files for Micaela Lafratta's assessment of Module 1: Discover the power of Python. 
